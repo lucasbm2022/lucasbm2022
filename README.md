@@ -1,6 +1,7 @@
 ### <div align="center"> welcome to my README, my name is Lucas, nice to meet you! 😉 
   
 <div align="center">
+ 💻 studying HTML<div>
  📔 Studying web programming.<div>
  🐍 I chose Python as my first language.<div>
  ⚽ Football is one of my biggest passions!<div>
