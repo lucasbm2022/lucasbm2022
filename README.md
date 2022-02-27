@@ -19,4 +19,7 @@
 <div>
 
 ![download20220200002953 (1)](https://user-images.githubusercontent.com/100497621/155868326-741f01b6-b409-43de-ac32-c477ee7d696b.png)
- 
+
+ <div>
+ <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"target=_blank"></a>
+ <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"target=_blank"></a><div>
