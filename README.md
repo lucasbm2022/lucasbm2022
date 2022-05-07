@@ -14,9 +14,11 @@
 <hr>
 <div align="center">
   <a href="https://github.com/lucasbm2022">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbm2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbm2022&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbm2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbm2022&layout=compact&theme=dark"/>
 
 </div>
+  <br><hr>
  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"target=_blank"></a>
  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"target=_blank"></a>
  <a href="https://github.com/lucasbm2022" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red"target=_blank"></a>
@@ -31,4 +33,4 @@
 <a href="https://twitter.com/Lucas_dev_2022" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=gray"target=_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-bezerra-matias-910803227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
-  
+ <br><hr> 
