@@ -2,15 +2,15 @@
   
 <div align="center">
  <h3><strong>My skills and tools:</strong></h3>
- <p>CSS3 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><----->
- HTML5 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><----->
- Python <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
- Java Script <img id="js" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><--->
- Canva <img align="center" alt="canva" height="30" width="70" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><--->
- Gimp <img align="center" alt="gimp" height="30" width="70" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"> <br>
- PyCharm <img align="center" alt="py" height="30" width="90" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green"><-->
- GitDesktop <img align="center" alt="git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><-->
- VS Code <img align="center" alt="vs" height="30" width="100" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <p>CSS3 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ HTML5 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ Python <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ Java Script <img id="js" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></p>
+ <p>Canva <img align="center" alt="canva" height="30" width="70" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+ Gimp <img align="center" alt="gimp" height="30" width="70" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"> cmder <img align="center" alt="cmder" height="30" width="40" src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto/p/31a1f6b0-a4d5-11e6-8b27-00163ec9f5fa/602563080/cmder-logo.png"></p>
+ <p>PyCharm <img align="center" alt="py" height="30" width="90" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green">
+ GitDesktop <img align="center" alt="git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ VS Code <img align="center" alt="vs" height="30" width="100" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
 <hr>
 <div align="center">
   <a href="https://github.com/lucasbm2022">
