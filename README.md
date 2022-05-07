@@ -1,4 +1,4 @@
-### <div align="center"> welcome to my README, my name is Lucas, nice to meet you! 😉 
+### <div align="center"> Welcome to my README, my name is Lucas, nice to meet you! 😉 
   
 <div align="center">
  🎨 studying CSS.<div>
