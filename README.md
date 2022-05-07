@@ -23,7 +23,8 @@
  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=red"target=_blank"></a>
  <a href="https://www.javascript.com/"target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"target=_blank"></a>
   
-![download20220200002953 (1)](https://user-images.githubusercontent.com/100497621/155868326-741f01b6-b409-43de-ac32-c477ee7d696b.png)
+![gif-laptop](https://user-images.githubusercontent.com/100497621/167263269-da5d67f2-aee1-478f-a060-f78b81e1fc72.gif)
+
 
 <div> 
 <a href="https://www.instagram.com/_lucasbm_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
