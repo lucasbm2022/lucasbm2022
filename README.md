@@ -35,4 +35,6 @@
 <a href="https://twitter.com/Lucas_dev_2022" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=gray"target=_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-bezerra-matias-910803227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
+ <a href="https://app.netlify.com/teams/lucasbm2022/overview" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank"></a>
+
  <br><hr> 
