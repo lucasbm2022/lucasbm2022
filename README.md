@@ -13,6 +13,7 @@
  <img align="center" alt="git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
  <img align="center" alt="vs" height="30" width="100" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img align="center" alt="vs" height="30" width="100" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img align="center" alt="vs" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <hr>
 <div align="center">
   <a href="https://github.com/lucasbm2022">
