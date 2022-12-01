@@ -16,7 +16,7 @@
  <img align="center" alt="vs" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <hr>
 <div align="center">
-  <a href="https://github.com/lucasbm2022">
+  <a href="https://github.com/lucasbm2022" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbm2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbm2022&layout=compact&theme=dark"/>
 
